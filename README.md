@@ -1,4 +1,4 @@
-# Olá! Eu sou o Diogenes 👋
+# Olá! Eu sou o Diógenes 👋
 
 ## Sobre Mim
 Sou formado em Engenharia da Computação e tenho experiência em Suporte de TI. Atualmente, estou em transição de carreira para a área de desenvolvimento, com foco em **C# e .NET**. Apaixonado por tecnologia e sempre buscando novos conhecimentos, estou me dedicando ao aprendizado e evolução para me tornar um desenvolvedor júnior em breve.
